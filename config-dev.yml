@@ -1,5 +1,5 @@
 config: 
-   info: dev 2222233333333333
+   info: dev 2222233s
 #spring: 
  #  datasource: 
   #  type: com.alibaba.druid.pool.DruidDataSource
